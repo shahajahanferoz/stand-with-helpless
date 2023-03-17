@@ -149,7 +149,13 @@ header p{
 .input-group{
     padding-top: 80px;
 }
-
+.volunteer{
+    width: 28%;
+    margin-left: 3%;
+    padding: 5% 2%;
+    box-shadow: 0px 6.5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
 
 footer{
     padding: 35px;
