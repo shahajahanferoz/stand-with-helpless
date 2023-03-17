@@ -156,6 +156,10 @@ header p{
     box-shadow: 0px 6.5px 10px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
+.volunteer img {
+    width: 92%;
+    height: 200px;
+}
 
 footer{
     padding: 35px;
