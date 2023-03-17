@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    border: 0;
 }
 header{
     padding-top: 100px;
@@ -103,7 +104,13 @@ header p{
 }
 
 footer{
+    padding: 35px;
     text-align: center;
-    background-color: black;
+    background-color: rgb(27, 27, 27);
     color: white;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: rgb(211, 58, 38);
 }
